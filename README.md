@@ -27,6 +27,7 @@ Criar funções e rotas utilizando AWS Lambda Functions, API Gateway e o Websock
 ### 02/03 A aula 03: Desenvolvendo o frontend do chat serverless 
 
 Continuação do desenvolvimento e implementando o fron-tend usando React e Amplify.
+EC2, AWS S3, AWS Elastic BeanStalk, AWS CloudFront
 
 ## 🛠 Tecnologias Utilizadas
 
@@ -40,7 +41,7 @@ Continuação do desenvolvimento e implementando o fron-tend usando React e Ampl
 
 ##
 
-Projeto desenvolvido durante a AWS Cloud Week, fornecido pela [**DIO**](https://www.dio.me/), em uma parceria com a [**AWS**](https://aws.amazon.com/pt/).
+Projeto desenvolvido durante a AWS Cloud Week, fornecido pela [**DIO**](https://www.dio.me/), em uma parceria com a [**AWS**](https://aws.amazon.com/pt/).s3
 
 By Paucinha!!!
 
