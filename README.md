@@ -18,7 +18,7 @@ Saiba tudo sobre a AWS Cloud Week:
 
 ### 28/02 Aula 01: Passo a passo para iniciar a jornada AWS Cloud
 
-Neste primeiro conteúdo vamos instalar e configurar todas as ferramentas necessárias para iniciar o projeto. 
+Neste primeiro conteúdo instalação e configuração todas as ferramentas necessárias para iniciar o projeto. 
 
 ### 01/03 Aula 02: Desenvolvimento backend serverless chat
 
