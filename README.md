@@ -7,9 +7,13 @@
 27/02 - Lançamento oficial AWS na DIO
 
 Saiba tudo sobre a AWS Cloud Week:
+
 ✅Projeto que será desenvolvido;
+
 ✅Ferramentas utilizadas;
+
 ✅Tecnologias que você vai aprender;
+
 ✅Aulas ao vivo.
 
 ### 28/02 Aula 01: Passo a passo para iniciar a jornada AWS Cloud
