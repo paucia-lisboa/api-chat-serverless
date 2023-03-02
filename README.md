@@ -1,4 +1,4 @@
-# AWS CLOUD WEEK
+# ☁️ AWS CLOUD WEEK
 
 ## Construir uma aplicação de chat serveless na nuvem AWS
 
