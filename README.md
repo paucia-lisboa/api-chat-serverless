@@ -1,6 +1,6 @@
 # 🚀 AWS CLOUD WEEK
 
-## Construir uma aplicação de chat serveless na nuvem AWS
+Construir uma aplicação de chat serveless na nuvem AWS.
 
 03 dias práticos pára Construir uma aplicação de chat serveless na nuvem AWS de 27/02 à 02/03/2023
 
@@ -31,7 +31,7 @@ Fique por dentro das grandes novidades que preparamos para essa semana. Acompanh
 ## 🛠 Tecnologias Utilizadas
 
 <div style="display: inline_block"><br>
-            <img align="center" alt="amazonwebservices" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+            <img align="center" alt="amazonwebservices" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
             <img align="center" alt="nodejs" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"/>
             <img align="center" alt="git" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
             <img align="center" alt="github" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
