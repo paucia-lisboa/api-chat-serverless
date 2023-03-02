@@ -1,8 +1,4 @@
-
-            
-        
-
-# ☁️ AWS CLOUD WEEK
+# 🚀 AWS CLOUD WEEK
 
 ## Construir uma aplicação de chat serveless na nuvem AWS
 
@@ -30,16 +26,22 @@ Criar funções e rotas utilizando AWS Lambda Functions, API Gateway e o Websock
 
 ### 02/03 | 19H - Aula 03: Desenvolvendo o front-end do chat serverless
 
-Fique por dentro das grandes novidades que preparamos para essa semana. Acompanhe ao vivo o lançamento oficial da nova parceira do ecossistema DIO. 
+Fique por dentro das grandes novidades que preparamos para essa semana. Acompanhe ao vivo o lançamento oficial da nova parceira do ecossistema DIO.
 
+## 🛠 Tecnologias Utilizadas
 
 <div style="display: inline_block"><br>
- <img align="center" alt="amazonwebservices" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
- <img align="center" alt="nodejs" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"/>
- <img align="center" alt="git" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
- <img align="center" alt="github" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
- <img align="center" alt="vscode" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>                                                                                          
-                                                                                                                                            
-           
-          
-</div>        
+            <img align="center" alt="amazonwebservices" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+            <img align="center" alt="nodejs" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"/>
+            <img align="center" alt="git" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+            <img align="center" alt="github" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+            <img align="center" alt="vscode" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+</div>
+
+##
+
+Projeto desenvolvido durante a AWS Cloud Week, fornecido pela [**DIO**](https://www.dio.me/), em uma parceria com a [**AWS**](https://aws.amazon.com/pt/).
+
+By Paucinha!!!
+
+[![Linkedin: paucia](https://img.shields.io/badge/Paucia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paucia-lisboa/)](https://www.linkedin.com/in/paucia-lisboa/)
