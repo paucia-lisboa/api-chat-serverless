@@ -24,9 +24,9 @@ Neste primeiro conteúdo vamos instalar e configurar todas as ferramentas necess
 
 Criar funções e rotas utilizando AWS Lambda Functions, API Gateway e o Websocket API para comunicação em tempo real.
 
-### 02/03 | 19H - Aula 03: Desenvolvendo o front-end do chat serverless
+### 02/03 A aula 03 - Desenvolvendo o frontend do chat serverless 
 
-Fique por dentro das grandes novidades que preparamos para essa semana. Acompanhe ao vivo o lançamento oficial da nova parceira do ecossistema DIO.
+Continuação do desenvolvimento e implementando o fron-tend usando React e Amplify.
 
 ## 🛠 Tecnologias Utilizadas
 
