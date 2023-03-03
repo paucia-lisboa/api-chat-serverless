@@ -1,14 +1,13 @@
-# 🚀 API para chat serverless integrado com API do OpenAI ChatGPT
+# 🚀 Chat Serverless integrado com API do OpenAI ChatGPT
 
 ![GitHub](https://img.shields.io/github/license/paucia-lisboa/api-chat-serverless)
 
-# Sobre o projeto
+## Sobre o projeto
 
 https://master.d2bwyh5mlf1nlb.amplifyapp.com
 
-Construir uma aplicação de chat serveless na nuvem AWS, durante a  AWS CLOUD WEEK.
-
-03 dias práticos pára Construir uma aplicação de chat serveless na nuvem AWS de 27/02 à 02/03/2023
+Construir uma aplicação de chat serveless na nuvem AWS, durante a  AWS CLOUD WEEK. Três dias práticos pára Construir uma aplicação de chat serveless na nuvem AWS
+de 27/02 à 02/03/2023
 
 27/02 - Lançamento oficial AWS na DIO
 
