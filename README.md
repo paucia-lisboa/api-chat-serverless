@@ -46,7 +46,7 @@ Continuação do desenvolvimento e implementando o fron-tend usando React e Ampl
 
 ##
 
-Projeto desenvolvido durante a AWS Cloud Week, fornecido pela [**DIO**](https://www.dio.me/), em uma parceria com a [**AWS**](https://aws.amazon.com/pt/).s3
+Projeto desenvolvido durante a AWS Cloud Week, fornecido pela [**DIO**](https://www.dio.me/), em uma parceria com a [**AWS**](https://aws.amazon.com/pt/).
 
 By Paucinha!!!
 
