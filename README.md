@@ -25,11 +25,11 @@ Saiba tudo sobre a AWS Cloud Week:
 
 Neste primeiro conteúdo instalação e configuração todas as ferramentas necessárias para iniciar o projeto. 
 
-### 01/03 Aula 02: Desenvolvimento backend serverless chat
+### 01/03 Aula 02: Desenvolvimento Backend Serverless Chat
 
 Criar funções e rotas utilizando AWS Lambda Functions, API Gateway e o Websocket API para comunicação em tempo real.
 
-### 02/03 A aula 03: Desenvolvendo o frontend do chat serverless 
+### 02/03 A aula 03: Desenvolvendo o Frontend do Chat Serverless 
 
 Continuação do desenvolvimento e implementando o fron-tend usando React e Amplify, com EC2, AWS S3, AWS Elastic BeanStalk, AWS CloudFront
 
