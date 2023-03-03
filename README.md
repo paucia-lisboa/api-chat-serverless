@@ -2,9 +2,11 @@
 
 # Sobre o projeto
 
-
+![GitHub](https://img.shields.io/github/license/paucia-lisboa/api-chat-serverless)
 
 Construir uma aplicação de chat serveless na nuvem AWS, durante a  AWS CLOUD WEEK.
+
+https://master.d2bwyh5mlf1nlb.amplifyapp.com
 
 03 dias práticos pára Construir uma aplicação de chat serveless na nuvem AWS de 27/02 à 02/03/2023
 
