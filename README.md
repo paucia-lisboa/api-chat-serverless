@@ -1,6 +1,10 @@
-# 🚀 AWS CLOUD WEEK
+# 🚀 API para chat serverless integrado com API do OpenAI ChatGPT
 
-Construir uma aplicação de chat serveless na nuvem AWS.
+# Sobre o projeto
+
+
+
+Construir uma aplicação de chat serveless na nuvem AWS, durante a  AWS CLOUD WEEK.
 
 03 dias práticos pára Construir uma aplicação de chat serveless na nuvem AWS de 27/02 à 02/03/2023
 
